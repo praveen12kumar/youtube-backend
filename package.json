@@ -1,11 +1,15 @@
 {
   "name": "youtube-backend",
   "version": "1.0.0",
-  "description": "youtube backend ",
+  "description": "youtube  backend ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "javacript",
+    "backend"
+  ],
+  "author": "praveen kumar",
   "license": "ISC"
 }
